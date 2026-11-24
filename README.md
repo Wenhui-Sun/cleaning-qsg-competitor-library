@@ -2,7 +2,7 @@
 
 这是一个面向产品体验、包装与说明书设计研究的竞品图片库，覆盖吸尘器、洗地机、布艺清洗机、扫地机器人和除螨仪。
 
-- 在线网站：https://cleaning-qsg-competitor-library.wsun0414.chatgpt.site/
+- 在线网站：[https://cleaning-qsg-competitor-library.wsun0414.chatgpt.site/](https://cleaning-qsg-competitor-library-hub.uwant-1559.chatgpt.site)
 - 当前规模：318 份实物物料、371 张照片
 - 主要品牌：Shark、Philips、Dreame、Roborock、Rowenta、Bissell、Tineco、Dyson，并包含 Hoover、Luwant、Yadea、IRIS OHYAMA、Simplus、PerySmith 等补充样本
 
