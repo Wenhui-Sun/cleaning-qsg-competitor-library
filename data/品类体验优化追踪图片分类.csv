@@ -1,0 +1,75 @@
+﻿图片序号,工作表位置,处理,品牌,品类,型号,物料类型,合集,说明
+1,C4,导入,Luwant,布艺清洗机,Y100,黄箱,tracking-luwant-y100-carton,牛皮纸原色为底，白色品牌与机型置于上方，产品线稿在下方；开箱角度显示说明书直接放在机身上方。
+2,C4,导入,Bissell,布艺清洗机,Little Green Mini 4075,黄箱,tracking-bissell-4075-carton,牛皮纸箱以深蓝色品牌标识、竖向封箱色带和整机线稿构成主视觉；内折页以单色图标列出服务入口及配件示意。
+3,D4,导入,Shark,布艺清洗机,StainStriker PX251,黄箱,tracking-shark-px251-shipper,外层运输箱用牛皮纸本色和少量单色印刷，实物开箱照片展示外箱与内层零售彩箱的套箱结构。
+4,E4,导入,Shark,布艺清洗机,EveryMess VX101,黄箱,tracking-shark-vx101-shipper,外箱以牛皮纸原色和简化线稿呈现，内置高饱和零售彩箱；开箱角度可见配件的分层固定。
+5,F4,导入,Yadea,布艺清洗机,R6,彩箱,tracking-yadea-r6-retail,深灰底与白色日文标题形成高对比，产品渲染图占据主要版面；功能卖点以四枚纵列圆形图标排列，侧面集中放置物流符号与规格。
+6,G4,导入,IRIS OHYAMA,布艺清洗机,RNS-300,彩箱,tracking-iris-rns300-retail,白底配品牌蓝，产品使用场景采用大图加小图矩阵；局部用红蓝箭头说明喷水与回吸的两步操作，箱面集中展示地毯、沙发和车座场景。
+7,C5,导入,Luwant,布艺清洗机,Y100,黄箱,tracking-luwant-y100-carton,牛皮纸原色为底，白色品牌与机型置于上方，产品线稿在下方；开箱角度显示说明书直接放在机身上方。
+8,C5,导入,Bissell,布艺清洗机,Little Green Mini 4075,黄箱,tracking-bissell-4075-carton,牛皮纸箱以深蓝色品牌标识、竖向封箱色带和整机线稿构成主视觉；内折页以单色图标列出服务入口及配件示意。
+9,D5,导入,Shark,布艺清洗机,StainStriker PX251,彩箱,tracking-shark-px251-retail,黑色底面配黄色横条和青色功能色，大幅整机图居中；侧面以双配方、场景照片与功能模块分区说明，纸浆内托按配件轮廓分仓。
+10,E5,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+11,F5,导入,Yadea,布艺清洗机,R6,彩箱,tracking-yadea-r6-retail,深灰底与白色日文标题形成高对比，产品渲染图占据主要版面；功能卖点以四枚纵列圆形图标排列，侧面集中放置物流符号与规格。
+12,G5,导入,IRIS OHYAMA,布艺清洗机,RNS-300,彩箱,tracking-iris-rns300-retail,白底配品牌蓝，产品使用场景采用大图加小图矩阵；局部用红蓝箭头说明喷水与回吸的两步操作，箱面集中展示地毯、沙发和车座场景。
+13,C7,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+14,E7,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+15,F7,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+16,C8,导入,Luwant,布艺清洗机,Y100,铭牌,tracking-plate-16,白底黑字矩形铭牌贴于机底，按品牌型号、电气参数与认证标志分行。
+17,C8,导入,Bissell,布艺清洗机,Little Green Mini 4075,铭牌,tracking-plate-17,机底白色铭牌横向排列品牌、型号、额定参数及认证信息，条码与编号位于下方。
+18,D8,导入,Shark,布艺清洗机,StainStriker PX251,铭牌,tracking-plate-18,黑底白字铭牌贴于机底，参数、安全符号与制造信息紧凑分区。
+19,E8,导入,Shark,布艺清洗机,EveryMess VX101,铭牌,tracking-plate-19,机底白色长条铭牌按品牌型号、供电参数和安全说明纵向排版。
+20,F8,导入,Yadea,布艺清洗机,R6,铭牌,tracking-plate-20,机底白色铭牌与条码标签分离，型号及电气规格采用小字号表格化排列。
+21,G8,导入,IRIS OHYAMA,布艺清洗机,RNS-300,铭牌,tracking-plate-21,机身底部黑字白底铭牌集中展示型号、电气参数和日文警示。
+22,E9,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+23,D10,导入,Shark,布艺清洗机,Deep Clean Pet,清洁液,tracking-shark-deep-clean-pet,粉紫色标签与宠物图像建立配方识别，品牌和配方名大字居中；左侧窄栏给出稀释说明和补充购买二维码。
+24,D6,导入,Shark,布艺清洗机,StainStriker PX251,彩箱,tracking-shark-px251-retail,黑色底面配黄色横条和青色功能色，大幅整机图居中；侧面以双配方、场景照片与功能模块分区说明，纸浆内托按配件轮廓分仓。
+25,E6,导入,Shark,布艺清洗机,EveryMess VX101,彩箱,tracking-shark-vx101-retail,白底正面放大产品名与整机图，下方按干吸、湿吸、除渍列信息卡；侧面改用青黑底和双栏功能对比，开箱页继续强调配方混合与二维码。
+26,C10,导入,Bissell,布艺清洗机,Little Green OXY Spot & Stain,清洁液,tracking-bissell-oxy-spot-stain,深蓝瓶配白色水滴形标签，绿色色条突出配方名；正面先讲去渍卖点，背面以两格图示组织加液与局部清洁步骤，安全信息置底。
+27,D11,导入,Shark,布艺清洗机,StainStriker PX251,快速入门指南,tracking-shark-px251-tank-fill,水箱竖向标签以紫色步骤区、清洁液图像和二维码从上到下排列，紧邻刻度标记提示先加水再加浓缩液。
+28,D7,导入,Shark,布艺清洗机,StainStriker PX251,快速入门指南,tracking-shark-px251-tool-tag,白色配件吊牌用黑色线稿与勾选符号区分刷头类型，分格排列适用污渍与使用方式。
+29,E11,导入,Shark,布艺清洗机,EveryMess VX101,快速入门指南,tracking-shark-vx101-wet-tool,吸头上的黄色短句标贴把向下拉出的动作与双箭头并列，紧贴操作部位提示取下湿污吸头。
+30,D10,导入,Shark,布艺清洗机,Deep Clean Pet / OXY Multiplier,清洁液,tracking-shark-formula-cap-cues,两种清洁液瓶盖分别用红色‘DILUTE’和蓝色‘DO NOT DILUTE’圆形标签区分稀释规则，先于瓶身长说明传达使用差异。
+31,C6,导入,Bissell,布艺清洗机,Little Green Mini 4075,黄箱,tracking-bissell-4075-carton,牛皮纸箱以深蓝色品牌标识、竖向封箱色带和整机线稿构成主视觉；内折页以单色图标列出服务入口及配件示意。
+32,C6,导入,Bissell,布艺清洗机,Little Green Mini 4075,黄箱,tracking-bissell-4075-carton,牛皮纸箱以深蓝色品牌标识、竖向封箱色带和整机线稿构成主视觉；内折页以单色图标列出服务入口及配件示意。
+33,E10,导入,Shark,布艺清洗机,StainForce Dual-Formula Refill,清洁液,tracking-shark-stainforce-refill,黑色瓶标将红蓝两种配方对半排布，正面以‘30X’数字强化卖点；侧面用喷头剖面、干湿污渍图示和二维码解释混合机制，背面集中安全信息。
+34,D5,导入,Shark,布艺清洗机,StainStriker PX251,黄箱,tracking-shark-px251-shipper,外层运输箱用牛皮纸本色和少量单色印刷，实物开箱照片展示外箱与内层零售彩箱的套箱结构。
+35,E5,导入,Shark,布艺清洗机,EveryMess VX101,黄箱,tracking-shark-vx101-shipper,外箱以牛皮纸原色和简化线稿呈现，内置高饱和零售彩箱；开箱角度可见配件的分层固定。
+36,D9,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+37,D6,导入,Shark,布艺清洗机,StainStriker PX251,彩箱,tracking-shark-px251-retail,黑色底面配黄色横条和青色功能色，大幅整机图居中；侧面以双配方、场景照片与功能模块分区说明，纸浆内托按配件轮廓分仓。
+38,F6,导入,Yadea,布艺清洗机,R6,彩箱,tracking-yadea-r6-retail,深灰底与白色日文标题形成高对比，产品渲染图占据主要版面；功能卖点以四枚纵列圆形图标排列，侧面集中放置物流符号与规格。
+39,E11,导入,Yadea,布艺清洗机,R6,快速入门指南,tracking-yadea-r6-holder,黄色顶部横条以黑字和向上箭头强调安装方向，下方两幅线稿分别展示插入和卡扣到位。
+40,D7,导入,Shark,布艺清洗机,StainStriker PX251,快速入门指南,tracking-shark-px251-rinse-tag,黑底吊牌以白色大标题、蓝色重点箭头和两幅操作线稿说明自清洁步骤，文字按编号顺序排列。
+41,F6,导入,Yadea,布艺清洗机,R6,彩箱,tracking-yadea-r6-retail,深灰底与白色日文标题形成高对比，产品渲染图占据主要版面；功能卖点以四枚纵列圆形图标排列，侧面集中放置物流符号与规格。
+42,D6,导入,Shark,布艺清洗机,StainStriker PX251,彩箱,tracking-shark-px251-retail,黑色底面配黄色横条和青色功能色，大幅整机图居中；侧面以双配方、场景照片与功能模块分区说明，纸浆内托按配件轮廓分仓。
+43,F6,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+44,C9,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+45,E9,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+46,F9,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+47,D6,导入,Shark,布艺清洗机,StainStriker PX251,快速入门指南,tracking-shark-px251-box-qsg,箱内印刷面分成配件清单、加液、使用和污水箱清洁四栏；每栏用编号、线稿和少量青色标题条引导操作，并在上方提供视频二维码。
+48,E6,导入,Shark,布艺清洗机,EveryMess VX101,彩箱,tracking-shark-vx101-retail,白底正面放大产品名与整机图，下方按干吸、湿吸、除渍列信息卡；侧面改用青黑底和双栏功能对比，开箱页继续强调配方混合与二维码。
+49,E10,导入,Shark,布艺清洗机,StainForce Dual-Formula Refill,清洁液,tracking-shark-stainforce-refill,黑色瓶标将红蓝两种配方对半排布，正面以‘30X’数字强化卖点；侧面用喷头剖面、干湿污渍图示和二维码解释混合机制，背面集中安全信息。
+50,F5,导入,Yadea,布艺清洗机,R6,彩箱,tracking-yadea-r6-retail,深灰底与白色日文标题形成高对比，产品渲染图占据主要版面；功能卖点以四枚纵列圆形图标排列，侧面集中放置物流符号与规格。
+51,D11,导入,Shark,布艺清洗机,StainStriker PX251,快速入门指南、贴纸,tracking-shark-px251-tank-lid、tracking-shark-px251-howto-qr,贴在污水箱把手下方的黑底图解贴，以蓝色编号和三幅线稿说明上拉把手、解锁箱盖和倒空污水。；黑底白字提示贴以大写短句和二维码为核心，放在机身顶部可见区域，引导用户查看操作视频。
+52,D11,导入,Shark,布艺清洗机,StainStriker PX251,贴纸,tracking-shark-px251-filter-care,青色维护贴紧挨可拆滤件，白色上箭头、短句和滤件线稿形成从位置到动作的直接提醒。
+53,E10,导入,Shark,布艺清洗机,StainForce Dual-Formula Refill,清洁液,tracking-shark-stainforce-refill,黑色瓶标将红蓝两种配方对半排布，正面以‘30X’数字强化卖点；侧面用喷头剖面、干湿污渍图示和二维码解释混合机制，背面集中安全信息。
+54,D11,导入,Shark,布艺清洗机,StainStriker PX251,快速入门指南,tracking-shark-px251-nozzle-stain-guide,手柄细长贴纸以青色和粉色边线区分湿污、干污操作路径，纵向重复喷洒、刷洗和抽吸图示。
+55,G6,导入,IRIS OHYAMA,布艺清洗机,RNS-300,彩箱,tracking-iris-rns300-retail,白底配品牌蓝，产品使用场景采用大图加小图矩阵；局部用红蓝箭头说明喷水与回吸的两步操作，箱面集中展示地毯、沙发和车座场景。
+56,C9,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+57,E11,导入,Shark,布艺清洗机,EveryMess VX101,快速入门指南,tracking-shark-vx101-filter-removal,透明污水箱上的白底黑线稿贴以三格连续动作说明提拉、捏合和取出滤件。
+58,C9,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+59,E10,导入,Shark,布艺清洗机,StainForce Dual-Formula Refill,清洁液,tracking-shark-stainforce-refill,黑色瓶标将红蓝两种配方对半排布，正面以‘30X’数字强化卖点；侧面用喷头剖面、干湿污渍图示和二维码解释混合机制，背面集中安全信息。
+60,E10,导入,Shark,布艺清洗机,StainForce Dual-Formula Refill,清洁液,tracking-shark-stainforce-refill,黑色瓶标将红蓝两种配方对半排布，正面以‘30X’数字强化卖点；侧面用喷头剖面、干湿污渍图示和二维码解释混合机制，背面集中安全信息。
+61,E5,导入,Shark,布艺清洗机,EveryMess VX101,彩箱,tracking-shark-vx101-retail,白底正面放大产品名与整机图，下方按干吸、湿吸、除渍列信息卡；侧面改用青黑底和双栏功能对比，开箱页继续强调配方混合与二维码。
+62,E6,导入,Shark,布艺清洗机,EveryMess VX101,彩箱,tracking-shark-vx101-retail,白底正面放大产品名与整机图，下方按干吸、湿吸、除渍列信息卡；侧面改用青黑底和双栏功能对比，开箱页继续强调配方混合与二维码。
+63,E11,导入,Shark,布艺清洗机,EveryMess VX101,贴纸,tracking-shark-vx101-tool-formula,喷头上的黄色提示贴用黑字和瓶身示意图提示配合专用清洁液使用，色彩与机身标签形成明显区分。
+64,C10,导入,Bissell,布艺清洗机,Little Green OXY Spot & Stain,清洁液,tracking-bissell-oxy-spot-stain,深蓝瓶配白色水滴形标签，绿色色条突出配方名；正面先讲去渍卖点，背面以两格图示组织加液与局部清洁步骤，安全信息置底。
+65,G11,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+66,C6,导入,Bissell,布艺清洗机,Little Green Mini 4075,黄箱,tracking-bissell-4075-carton,牛皮纸箱以深蓝色品牌标识、竖向封箱色带和整机线稿构成主视觉；内折页以单色图标列出服务入口及配件示意。
+67,D10,导入,Shark,布艺清洗机,OXY Multiplier,清洁液,tracking-shark-oxy-multiplier,青蓝色标签与粉紫色 Deep Clean 形成配对，配方名为主视觉，侧栏用短步骤说明加入另一水箱并标出最大液位。
+68,G6,导入,IRIS OHYAMA,布艺清洗机,RNS-300,彩箱,tracking-iris-rns300-retail,白底配品牌蓝，产品使用场景采用大图加小图矩阵；局部用红蓝箭头说明喷水与回吸的两步操作，箱面集中展示地毯、沙发和车座场景。
+69,G6,导入,IRIS OHYAMA,布艺清洗机,RNS-300,彩箱,tracking-iris-rns300-retail,白底配品牌蓝，产品使用场景采用大图加小图矩阵；局部用红蓝箭头说明喷水与回吸的两步操作，箱面集中展示地毯、沙发和车座场景。
+70,F9,未导入,,,,,,无清晰的目标物料设计信息，或仅为说明书封面/整机/内托
+71,C6,导入,Bissell,布艺清洗机,Little Green Mini 4075,黄箱,tracking-bissell-4075-carton,牛皮纸箱以深蓝色品牌标识、竖向封箱色带和整机线稿构成主视觉；内折页以单色图标列出服务入口及配件示意。
+72,E11,导入,Shark,布艺清洗机,EveryMess VX101,快速入门指南,tracking-shark-vx101-hose-mount,两枚黄色箭头标贴分别指向软管卡扣和安装座，利用高对比色在机身侧面提示组装位置。
+73,F6,导入,Yadea,布艺清洗机,R6,彩箱,tracking-yadea-r6-retail,深灰底与白色日文标题形成高对比，产品渲染图占据主要版面；功能卖点以四枚纵列圆形图标排列，侧面集中放置物流符号与规格。
+74,D7,未导入,,,,,,与第40张重复
