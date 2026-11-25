@@ -4,7 +4,7 @@
 
 - 在线网站：[https://cleaning-qsg-competitor-library.wsun0414.chatgpt.site/](https://cleaning-qsg-competitor-library-hub.uwant-1559.chatgpt.site)
 - 当前规模：318 份实物物料、371 张照片
-- 主要品牌：Shark、Philips、Dreame、Roborock、Rowenta、Bissell、Tineco、Dyson，并包含 Hoover、Luwant、Yadea、IRIS OHYAMA、Simplus、PerySmith 等补充样本
+- 主要品牌：Shark、Philips、Dreame、Roborock、Rowenta、Bissell、Tineco、Dyson，并包含 Hoover、Yadea、IRIS OHYAMA、Simplus、PerySmith 等补充样本
 
 ## 仓库内容
 
